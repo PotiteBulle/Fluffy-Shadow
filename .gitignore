@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Bun build files
+.bun/
+
+# TypeScript build files
+dist/
+build/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+bun.lockb
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Miscellaneous
+*.tgz
+
+# Shadow
+shadow
